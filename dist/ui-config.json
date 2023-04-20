@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "masterpiece, best quality,\n\n,delicate, beautiful,colorful, vividcolor, lighting,\n",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "",
+    "txt2img/Negative prompt/value": "(low quality, worst quality:1.0), nsfw",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
         "CounterFeit模型专用"
