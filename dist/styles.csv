@@ -1,12 +1,12 @@
 ﻿name,prompt,negative_prompt
 Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
 立绘法,"[(white-background:1.55)::5],",
-高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
+面部强化,"detailed hair, glowing eyes,(cute face),wide eyed,long eyelashes,",
 精致女孩,an extremely delicate and beautiful girl,
 镜头虚化,"depth of field, blurry background, blurry foreground, ",
 脸部增强,"delicate, beautiful, beautiful face, beautiful eyes, beautiful girl, delicate face, delicate girl,",
 画面增强,"high resolution illustration, colorful, 8k wallpaper, highres",
-光线增强,"Cinematic light, ray tracing",
+光线增强,"(tyndall effect), Cinematic light, ray tracing",
 详细水面,"(beautiful detailed water)",
 远景背景,"(((distant))) , 3d background",
 详细皮肤,"detailed skin, pale skin,(shiny skin:1.2)",
