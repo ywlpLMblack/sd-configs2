@@ -1,5 +1,5 @@
 ﻿name,prompt,negative_prompt
-Default,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+动态姿势,"dynamic angle, floating, holding,",
 立绘法,"[(white-background:1.55)::5],",
 面部强化,"detailed hair, glowing eyes,(cute face),wide eyed,long eyelashes,",
 精致女孩,an extremely delicate and beautiful girl,
